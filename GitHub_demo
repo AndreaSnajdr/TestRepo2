@@ -11,3 +11,5 @@ feature branch changes
 testujeme lokalni zmeny a jejich propagaci online
 
 testujeme merge funkcionalitu
+
+testujeme konfliktni merge z vetve feature
