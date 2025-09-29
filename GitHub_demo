@@ -3,3 +3,14 @@ Ahoj - toto je prvni commit na githubu.
 Pridavam commit
 
 Experimental changes
+
+testujeme fetch - zmeny
+
+feature branch changes
+
+testujeme lokalni zmeny a jejich propagaci online
+
+testujeme merge funkcionalitu
+
+testujeme konfliktni merge z vetve feature
+testujeme konfliktni zmenu z featureB branch
